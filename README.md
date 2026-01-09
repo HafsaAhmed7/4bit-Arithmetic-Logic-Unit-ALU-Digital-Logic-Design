@@ -26,7 +26,7 @@ This project presents a complete **4-bit ALU design** realized using **TTL-based
 
 ### Select-Line Encoding Table
 
-| Select Line (S[3:0])| Operation          |
+| Select Line         | Operation          |
 |---------------------|---------------------|
 | 0000                | Addition            |
 | 0001                | Subtraction         |
